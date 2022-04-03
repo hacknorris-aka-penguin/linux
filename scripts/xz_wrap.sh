@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash 
 #
 # This is a wrapper for xz to compress the kernel image using appropriate
 # compression options depending on the architecture.

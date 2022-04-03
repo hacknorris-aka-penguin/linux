@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash 
 # SPDX-License-Identifier: GPL-2.0-only
 
 # Create an autoksyms.h header file from the list of all module's needed symbols

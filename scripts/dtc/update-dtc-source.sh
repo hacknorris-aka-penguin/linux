@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash 
 # SPDX-License-Identifier: GPL-2.0
 # Simple script to update the version of DTC carried by the Linux kernel
 #

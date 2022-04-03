@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash 
 
 # run check on a text and a binary file
 for FILE in Makefile Documentation/logo.gif; do

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash 
 # SPDX-License-Identifier: GPL-2.0-only
 #
 # Print the assembler name and its version in a 5 or 6-digit form.

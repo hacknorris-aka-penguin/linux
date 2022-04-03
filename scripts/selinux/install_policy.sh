@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash 
 # SPDX-License-Identifier: GPL-2.0
 set -e
 if [ `id -u` -ne 0 ]; then
